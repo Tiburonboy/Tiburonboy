@@ -1,5 +1,5 @@
 ## Hi there 👋
-**Tiburonboy** is [pseudonym](https://en.wikipedia.org/wiki/Pseudonym) that I use for some of my social media. This GitHub account is the place where I'm archiving some of my work that I want to share with the public. Most of my repositories serve as cloud storage, but a few of them are actually worthy of mention and are getting some stars.
+**Tiburonboy** is [pseudonym](https://en.wikipedia.org/wiki/Pseudonym) that I use for some of my social media. This GitHub account is the place where I'm archiving some of my work. Most of my repositories serve as cloud storage, but a few of them are actually worthy of mention and are getting some stars.
 
 My avatar is the image of [Juan Rodríguez Cabrillo](https://en.wikipedia.org/wiki/Juan_Rodr%C3%ADguez_Cabrillo) from Wikipedia. 
 
